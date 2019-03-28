@@ -4,7 +4,7 @@ One LeetCode problem per day!
 Let's get those offers
 
 ## Format of each Entry
-\<Problem Number> <Problem Title> - <Problem Difficulty>
+\<Problem Number> \<Problem Title> - \<Problem Difficulty>
 
 \<Initial thoughts> (Notes on your high level approach)
 
