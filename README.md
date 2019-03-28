@@ -5,14 +5,20 @@ Let's get those offers
 
 ## Format of each Entry
 \<Problem Number> <Problem Title> - <Problem Difficulty>
+
 \<Initial thoughts> (Notes on your high level approach)
+
 \<Implementation> (Copy and paste your implementation here)
+
 \<Afterthoughts> (Reflections on your approach, challenges, and possible improvements)
+
 \<Results> (Copy and paste the runtime statistics for the problem from LeetCode)
+
 
 **80-character limit per line!**
 
-###Example:
+######Example:
+
 ```
 // 1337. Generic LeetCode Problem - EZPZ
 
