@@ -17,7 +17,7 @@ Let's get those offers
 
 **80-character limit per line!**
 
-######Example:
+###### Example:
 
 ```
 // 1337. Generic LeetCode Problem - EZPZ
