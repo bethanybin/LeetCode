@@ -65,3 +65,16 @@ class Solution {
 - [ ] **04/15/2019**: [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) - Easy
 - [ ] **04/16/2019**: [Find Common Characters](https://leetcode.com/problems/find-common-characters) - Easy
 - [ ] **04/17/2019**: [Swap Salary](https://leetcode.com/problems/swap-salary) - Easy
+- [ ] **04/18/2019**; [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy
+- [ ] **04/19/2019**; [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - Easy
+- [ ] **04/20/2019**; [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - Easy
+- [ ] **04/21/2019**; [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Medium
+- [ ] **04/22/2019**; [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - Easy
+- [ ] **04/23/2019**; [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) - Easy
+- [ ] **04/24/2019**; [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - Easy
+- [ ] **04/25/2019**; [House Robber](https://leetcode.com/problems/house-robber/) - Easy
+- [ ] **04/26/2019**; [String Compression](https://leetcode.com/problems/string-compression/) - Easy
+- [ ] **04/27/2019**; [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) - Easy
+- [ ] **04/28/2019**; [Number of Islands](https://leetcode.com/problems/number-of-islands/) - Medium
+- [ ] **04/29/2019**; [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) - Easy
+- [ ] **04/30/2019**; [Valid Anagramœ](https://leetcode.com/problems/valid-palindrome/) - Easy
