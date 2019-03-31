@@ -44,10 +44,10 @@ class Solution {
 
 ## Schedule
 - [x] **03/27/2019**: [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - Easy
-- [ ] **03/28/2019**: [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) - Easy
-- [ ] **03/29/2019**: [To Lower Case](https://leetcode.com/problems/to-lower-case/) - Easy
-- [ ] **03/30/2019**: [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) - Easy
-- [ ] **03/31/2019**: [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) - Easy
+- [x] **03/28/2019**: [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) - Easy
+- [x] **03/29/2019**: [To Lower Case](https://leetcode.com/problems/to-lower-case/) - Easy
+- [x] **03/30/2019**: [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) - Easy
+- [x] **03/31/2019**: [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) - Easy
 - [ ] **04/01/2019**: [Big Countries](https://leetcode.com/problems/big-countries/) - Easy
 - [ ] **04/02/2019**: [N-Repeated Element in size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) - Easy
 - [ ] **04/03/2019**: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - Easy
