@@ -48,8 +48,8 @@ class Solution {
 - [x] **03/31/2019**: [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) - Easy
 - [x] **04/01/2019**: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - Medium
 - [x] **04/02/2019**: [N-Repeated Element in size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) - Easy
-- [ ] **04/03/2019**: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - Easy
-- [ ] **04/04/2019**: [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) - Easy
+- [x] **04/03/2019**: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - Easy
+- [x] **04/04/2019**: [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) - Easy
 - [ ] **04/05/2019**: [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) - Easy
 - [ ] **04/06/2019**: [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) - Easy
 - [ ] **04/07/2019**: [Hamming Distance](https://leetcode.com/problems/hamming-distance) - Easy
