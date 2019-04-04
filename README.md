@@ -54,7 +54,7 @@ class Solution {
 - [x] **04/06/2019**: [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) - Easy
 - [x] **04/07/2019**: [Hamming Distance](https://leetcode.com/problems/hamming-distance) - Easy
 - [x] **04/08/2019**: [DI String Match](https://leetcode.com/problems/di-string-match) - Easy
-- [ ] **04/09/2019**: [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) - Easy
+- [x] **04/09/2019**: [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) - Easy
 - [ ] **04/10/2019**: [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) - Easy
 - [ ] **04/11/2019**: [Self-Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) - Easy
 - [ ] **04/12/2019**: [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) - Easy
