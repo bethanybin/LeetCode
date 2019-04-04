@@ -55,8 +55,8 @@ class Solution {
 - [x] **04/07/2019**: [Hamming Distance](https://leetcode.com/problems/hamming-distance) - Easy
 - [x] **04/08/2019**: [DI String Match](https://leetcode.com/problems/di-string-match) - Easy
 - [x] **04/09/2019**: [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) - Easy
-- [ ] **04/10/2019**: [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) - Easy
-- [ ] **04/11/2019**: [Self-Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) - Easy
+- [x] **04/10/2019**: [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) - Easy
+- [x] **04/11/2019**: [Self-Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) - Easy
 - [ ] **04/12/2019**: [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) - Easy
 - [ ] **04/13/2019**: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) - Easy
 - [ ] **04/14/2019**: [Array Partition I](https://leetcode.com/problems/array-partition-i) - Easy
