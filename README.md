@@ -57,7 +57,7 @@ class Solution {
 - [x] **04/09/2019**: [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) - Easy
 - [x] **04/10/2019**: [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) - Easy
 - [x] **04/11/2019**: [Self-Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) - Easy
-- [ ] **04/12/2019**: [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) - Easy
+- [x] **04/12/2019**: [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) - Easy
 - [ ] **04/13/2019**: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) - Easy
 - [ ] **04/14/2019**: [Array Partition I](https://leetcode.com/problems/array-partition-i) - Easy
 - [ ] **04/15/2019**: [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) - Easy
