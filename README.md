@@ -59,7 +59,7 @@ class Solution {
 - [x] **04/11/2019**: [Self-Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) - Easy
 - [x] **04/12/2019**: [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) - Easy
 - [x] **04/13/2019**: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) - Easy
-- [ ] **04/14/2019**: [Array Partition I](https://leetcode.com/problems/array-partition-i) - Easy
+- [x] **04/14/2019**: [Array Partition I](https://leetcode.com/problems/array-partition-i) - Easy
 - [ ] **04/15/2019**: [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) - Easy
 - [ ] **04/16/2019**: [Find Common Characters](https://leetcode.com/problems/find-common-characters) - Easy
 - [ ] **04/17/2019**: [Swap Salary](https://leetcode.com/problems/swap-salary) - Easy
