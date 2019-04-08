@@ -61,7 +61,7 @@ class Solution {
 - [x] **04/13/2019**: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) - Easy
 - [x] **04/14/2019**: [Array Partition I](https://leetcode.com/problems/array-partition-i) - Easy
 - [x] **04/15/2019**: [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) - Easy
-- [ ] **04/16/2019**: [Find Common Characters](https://leetcode.com/problems/find-common-characters) - Easy
+- [x] **04/16/2019**: [Find Common Characters](https://leetcode.com/problems/find-common-characters) - Easy
 - [ ] **04/17/2019**: [Swap Salary](https://leetcode.com/problems/swap-salary) - Easy
 - [ ] **04/18/2019**: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy
 - [ ] **04/19/2019**: [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - Easy
