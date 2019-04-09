@@ -62,7 +62,7 @@ class Solution {
 - [x] **04/14/2019**: [Array Partition I](https://leetcode.com/problems/array-partition-i) - Easy
 - [x] **04/15/2019**: [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) - Easy
 - [x] **04/16/2019**: [Find Common Characters](https://leetcode.com/problems/find-common-characters) - Easy
-- [ ] **04/17/2019**: [Swap Salary](https://leetcode.com/problems/swap-salary) - Easy
+- [x] **04/17/2019**: [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - Medium
 - [ ] **04/18/2019**: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy
 - [ ] **04/19/2019**: [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - Easy
 - [ ] **04/20/2019**: [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - Easy
