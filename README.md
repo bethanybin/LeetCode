@@ -76,3 +76,5 @@ class Solution {
 - [ ] **04/28/2019**: [Number of Islands](https://leetcode.com/problems/number-of-islands/) - Medium
 - [ ] **04/29/2019**: [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) - Easy
 - [ ] **04/30/2019**: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - Easy
+
+https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
