@@ -65,7 +65,7 @@ class Solution {
 - [x] **04/17/2019**: [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - Medium
 - [x] **04/18/2019**: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy
 - [x] **04/19/2019**: [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - Easy
-- [ ] **04/20/2019**: [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - Easy
+- [x] **04/20/2019**: [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - Easy
 - [ ] **04/21/2019**: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Medium
 - [ ] **04/22/2019**: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - Easy
 - [ ] **04/23/2019**: [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) - Easy
