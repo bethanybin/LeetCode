@@ -66,8 +66,8 @@ class Solution {
 - [x] **04/18/2019**: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy
 - [x] **04/19/2019**: [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - Easy
 - [x] **04/20/2019**: [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - Easy
-- [ ] **04/21/2019**: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Medium
-- [ ] **04/22/2019**: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - Easy
+- [x] **04/21/2019**: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Medium
+- [x] **04/22/2019**: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - Easy
 - [ ] **04/23/2019**: [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) - Easy
 - [ ] **04/24/2019**: [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - Easy
 - [ ] **04/25/2019**: [House Robber](https://leetcode.com/problems/house-robber/) - Easy
