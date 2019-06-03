@@ -71,7 +71,7 @@ class Solution {
 - [x] **04/23/2019**: [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) - Easy
 - [x] **04/24/2019**: [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - Easy
 - [x] **04/25/2019**: [House Robber](https://leetcode.com/problems/house-robber/) - Easy
-- [ ] **04/26/2019**: [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) - Medium
+- [x] **04/26/2019**: [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) - Medium
 - [ ] **04/27/2019**: [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) - Easy
 - [ ] **04/28/2019**: [Number of Islands](https://leetcode.com/problems/number-of-islands/) - Medium
 - [ ] **04/29/2019**: [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) - Easy
