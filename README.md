@@ -74,7 +74,7 @@ class Solution {
 - [x] **04/26/2019**: [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) - Medium
 - [x] **04/27/2019**: [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) - Easy
 - [x] **04/28/2019**: [Number of Islands](https://leetcode.com/problems/number-of-islands/) - Medium
-- [ ] **04/29/2019**: [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) - Easy
+- [x] **04/29/2019**: [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) - Easy
 - [ ] **04/30/2019**: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - Easy
 
 https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
